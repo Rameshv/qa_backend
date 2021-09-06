@@ -28,7 +28,7 @@ You can access the demo here https://qa-pickfu.herokuapp.com/
 
 Since it has realtime updates enabled with socket io, you can open the same URL another tab and start asking & answering.
 
-You will see the new questions & answers will be updated immediately in all the instances as they have added in the database.
+You will see the new questions & answers will be updated immediately in all the instances as they have are submitted
 
 
 
